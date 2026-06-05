@@ -1,6 +1,6 @@
 <template>
   <div class="container-home">
-    <img class="img-logo" :src="require('@/assets/1685614217.png')" alt="Background Image"/>
+    <img class="img-logo" :src="require('@/assets/MTG.png')" alt="Background Image"/>
     <div>    
       <span class="text1">เว็บตรงแท้ อันดับ 1</span>
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>

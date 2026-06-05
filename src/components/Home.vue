@@ -457,13 +457,13 @@ body {
       flex-direction: column;
       background-color: rgba(18,34,41,1);
       border-radius: 8px;
-      border: 0.5px solid rgb(230, 87, 87);
+      border: 0.5px solid rgb(87, 154, 230);
       padding: 10px;
       position: relative;
       overflow: hidden;
       opacity: 0;
       animation: rw-slideUp 0.5s ease-out forwards;
-      box-shadow: 0 0 9px rgba(245, 135, 135, 0.6);
+      box-shadow: 0 0 9px rgba(135, 223, 245, 0.6);
     }
 
     .rw-profile {
@@ -477,7 +477,7 @@ body {
       height: 50px;
       border-radius: 50%;
       margin-right: 10px;
-      border: 2px solid rgb(230, 87, 87);
+      border: 2px solid rgb(87, 197, 230);
     }
 
     .rw-review-text {
@@ -712,7 +712,7 @@ body {
   background-color: rgba(18, 34, 41, 0.3);
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(255, 141, 141, 0.7);
+  box-shadow: 0 4px 10px rgba(141, 219, 255, 0.7);
   display: flex;
   flex-direction: column-reverse;
   align-items: center; /* จัดแนวกลางแนวตั้ง */
@@ -730,7 +730,7 @@ body {
 
   @media (min-width: 500px) {
   .img-logo{
-    width: 40%;
+    width: 30%;
   }
   }
 
@@ -754,7 +754,7 @@ body {
       margin: 5px 0;
       background-color: rgba(18, 34, 41, 1);
       border-radius: 8px;
-      border: 0.5px solid rgb(255, 101, 101);
+      border: 0.5px solid rgb(101, 206, 255);
       display: flex;
       justify-content: space-between;
       overflow: hidden;
@@ -824,14 +824,14 @@ body {
       width: 20px;
       height: 20px;
       border: 3px solid transparent;
-      border-top: 3px solid rgb(247, 120, 98); /* ขอบบนหมุนสีทอง */
+      border-top: 3px solid rgb(98, 175, 247); /* ขอบบนหมุนสีทอง */
       border-radius: 50%;
       animation: spin 1s linear infinite;
     }
 
     .check-icon {
       font-size: 20px;
-      color: rgb(241, 75, 75);
+      color: rgb(75, 100, 241);
       display: none;
     }
 
@@ -898,7 +898,7 @@ body {
 }
 
   .badge:hover {
-    background-color: #d9534f; /* สีแดงเข้มเมื่อ hover */
+    background-color: #4f8bd9; /* สีแดงเข้มเมื่อ hover */
   }
 
     .online-status {
@@ -1035,8 +1035,8 @@ body {
       margin-bottom: 2.25rem;
       overflow: hidden;
       border-radius: 15px;
-      border: 2px solid rgb(255, 90, 90);
-      box-shadow: 0 0 20px rgba(255, 17, 0, 0.6);
+      border: 2px solid rgb(90, 175, 255);
+      box-shadow: 0 0 20px rgba(4, 0, 255, 0.6);
     }
 
     .slider {
@@ -1070,13 +1070,13 @@ body {
       width: 12px;
       height: 12px;
       border-radius: 50%;
-      background-color: #fa4040;
+      background-color: #40bffa;
       cursor: pointer;
       transition: background-color 0.3s ease;
     }
 
     .dot.active {
-      background-color: #ffa4a4;
+      background-color: #a4fcff;
     }
     
     .ranking-container {
@@ -1098,7 +1098,7 @@ body {
       padding: 10px 15px;
       background-color: rgba(18, 34, 41, 1);
       border-radius: 8px;
-      border: 0.5px solid rgb(255, 101, 101);
+      border: 0.5px solid rgb(101, 186, 255);
       display: flex;
       justify-content: space-between;
       overflow: hidden;

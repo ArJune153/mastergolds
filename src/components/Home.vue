@@ -639,7 +639,7 @@ body {
 
 /* สไตล์สำหรับรูป */
 .img-logo {
-  max-width: 40%;
+  max-width: 80%;
   filter: drop-shadow(0 0 20px rgb(255, 230, 0));
 }
 
@@ -730,7 +730,7 @@ body {
 
   @media (min-width: 500px) {
   .img-logo{
-    width: 80%;
+    width: 40%;
   }
   }
 

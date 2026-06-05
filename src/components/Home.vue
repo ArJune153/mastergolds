@@ -730,7 +730,7 @@ body {
 
   @media (min-width: 500px) {
   .img-logo{
-    width: 20%;
+    width: 80%;
   }
   }
 

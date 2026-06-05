@@ -1089,7 +1089,7 @@ body {
       width: 100%;
       max-width: 800px; /* ความกว้างสูงสุด */
       overflow: hidden;
-      box-shadow: 0 4px 10px rgba(255, 141, 141, 0.7);
+      box-shadow: 0 4px 10px rgba(141, 194, 255, 0.7);
       box-sizing: border-box;
       text-align: left;
     }
@@ -1117,7 +1117,7 @@ body {
       background: linear-gradient(
         120deg,
         transparent 0%,
-        rgba(255, 0, 0, 0.2) 50%,
+        rgba(0, 68, 255, 0.2) 50%,
         transparent 100%
       );
       transform: skewX(-20deg);
